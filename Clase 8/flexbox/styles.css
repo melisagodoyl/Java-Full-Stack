@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+html {
+	font-family: Montserrat, serif;
+}
+.flex-container {
+	width: 120vh;
+	height: 50vh;
+	background-color: plum;
+	display: flex;
+	flex-direction: row; /* row: valor x defecto | column: hace el eje principal (main axis) sea vertical | row-reverse | column-reverse*/
+}
+.flex-item {
+	align-items: flex-end; /* se le da a los items de mi contenedor flex | flex-end | center | stretch | baseline */ 
+}

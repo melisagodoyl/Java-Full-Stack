@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+ul li{
+	list-style: none;
+}
+
+h1{
+	font-family: 'Montserrat', sans-serif;
+}
+#imagenUno{
+	width: 30vw;
+	height: 50vh;
+}
+div img{
+	width: 5vw;
+	height: 10vh;
+}
+table, th, td{
+	border: solid black 1px;
+	color: orange;
+}
+table, th, td {
+	border: solid red 2px;
+	color: green;
+}

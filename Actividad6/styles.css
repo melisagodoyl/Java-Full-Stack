@@ -1,0 +1,12 @@
+div {
+  margin: .4em 0;
+}
+
+label {
+  width: 10%;
+  float: left;
+}
+
+button {
+	margin-left: 10%;
+}
